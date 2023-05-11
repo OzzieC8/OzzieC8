@@ -4,7 +4,7 @@ This is my home page! My name is Ozzie Cano and I am a student at [Cal State Ful
 
 ## Computer Science Projects
 
-My GitHub page is [http://github.com/ozziec8.github.io/) .
+My GitHub page is https://ozziec8.github.io/
 
 ### CPSC 120
 
